@@ -1,15 +1,14 @@
-.
 # TF practice tutorials from official tf docs & youtubers
 
-*  cnn_fminf.py: adesphande3 tutorials TF, CNN with fashionMNIST
+* cnn_fminf.py: adesphande3 tutorials TF, CNN with fashionMNIST
 * cnn_fmnist
-	* cnn_fminf.py: same as below?
+	* cnn_fminf.py: same as below
  	* cnn_fminst.py: adesphande3 cnn mnist tutorial
  	* cnn_mnist.py: tf cnn with fashionMNIST
  	* estim_fmin.py: DNN estimator practice with f-mnist
  	* fashion_data_import.py: script that imports fashionMNIST, and returns numpy arr
  	* tensorboard: record for trainings above
-* 	imator
+* estimator
  	* boston
  		* boston_nn.py: boston housing price prediction, using DNNRegressor.
  	 	* boston_predict.csv
@@ -27,7 +26,7 @@
  	* input.py: tf tutorial on custom input pipe/fn
  	* TF_linear
  		* linear_note.py: notes on linear.py
- 	    	* linear.py: data import tools, column buckets etc
+		* linear.py: data import tools, column buckets etc
 * estimator.py: DNNestimator with iris dataset. ValueError on 64.
 * estim_dir/: checkpoints & training data
 * fashion_data_import.py: data loading, csv -> df -> ndarray
