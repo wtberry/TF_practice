@@ -49,4 +49,4 @@
 * visual/: mnist.py for tensorboard mnist example with Dandelion
 	* mnist.py
 
-60 directories, 241 files including logs, *log files are not pushed*
+60 directories, 241 files including logs, **log files are not pushed**
